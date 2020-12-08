@@ -52,4 +52,3 @@ C:\Users\HolyK\Desktop\GitRepos\WeeklyChallenges\ChallengesWithTestsMark8\obj\De
 C:\Users\HolyK\Desktop\GitRepos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
 C:\Users\HolyK\Desktop\GitRepos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
 C:\Users\HolyK\Desktop\GitRepos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.genruntimeconfig.cache
-C:\Users\HolyK\Desktop\GitRepos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csprojAssemblyReference.cache
