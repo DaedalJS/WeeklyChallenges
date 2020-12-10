@@ -56,6 +56,8 @@ namespace ChallengesWithTestsMark8.Tests
         [InlineData(-5, false)]
         [InlineData(-101, false)]
         [InlineData(-99991, false)]
+        
+        
         public void IsPrimeNumber(int number, bool expected)
         {
             // Arrange
